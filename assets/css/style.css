@@ -423,7 +423,7 @@ main {
   gap: 12px;
 }
 .about_section .about_card img {
-  height: 100px;
+  height: 80px;
 }
 .about_section .about_card h4 {
   font-size: 16px;
@@ -492,7 +492,7 @@ main {
   background-position: center;
   position: relative;
   height: 500px;
-  background-image: url(../images/find.jpg);
+  background-image: url(../images/find.webp);
   isolation: isolate;
   background-size: cover;
 }
@@ -509,7 +509,7 @@ main {
   top: 0;
   left: 0;
   z-index: 0;
-  background: rgba(32, 196, 109, 0.5490196078);
+  background: rgba(0, 100, 22, 0.831372549);
 }
 .findFriends .row {
   z-index: 1;
